@@ -54,8 +54,8 @@ const inventory = [
       wifi: true,
       speech: true,
       hdr: true,
-      bluetooth: true,
-      ambiLight: false,
+      bluetooth: false,
+      ambiLight: true,
     },
     originalStock: 7,
     sold: 0,
@@ -161,3 +161,4 @@ const inventory = [
     sold: 8,
   },
 ];
+
